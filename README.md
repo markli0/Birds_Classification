@@ -7,7 +7,7 @@ bird is among them.
 The project is mainly built from the work done by gahaalt. [Here](https://github.com/gahaalt/resnets-in-tensorflow2) is the original repo.
 
 ## Brief Overview
-!video[overview](overview.mp4)
+https://github.com/markli0/Birds_Classification/blob/main/overview.mp4
 
 ## Problem Setup:
 This project is mainly created to participate in a [Kaggle competition](https://www.kaggle.com/c/birds-22wi/overview) on birds classifications.
