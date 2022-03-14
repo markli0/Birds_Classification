@@ -85,5 +85,7 @@ The final error rate on the test set is 0.00045. Since the data is shuffled, it 
 ### Validation
 The model has scored 0.561 on the real test set provided by the organizer of the competition. In other words, 56.1% of the predictions on the real test set are correct.
 
+Update: The latest model has scored 0.712 on the test set.
 
-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
+## Furthermore
+If I keep working on this project, I will try to implement a Spatial Pyramid Pooling layer before dense layers. A SPP-Net allows various input sizes without any resizing, therefore it is more like to preserve the characteristics in the orginal images.

@@ -142,3 +142,5 @@ def train_prep(image, label):
 def test_prep(x, y):
     x = tf.cast(x, tf.float32) / 255.
     return x, y
+
+# resize_images_test()

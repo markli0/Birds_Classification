@@ -150,7 +150,8 @@ def rematch_classes(model):
 
 
 # print(device_lib.list_local_devices())
-train_model(load_model(), 'resnet32-0311')
-# rematch_classes(load_model('resnet32-0309.tf'))
-# test_model(load_model('resnet32-0309.tf'))
+# train_model(load_model(), 'resnet32-0311')
+# rematch_classes(load_model('resnet32-0311.tf'))
+test_model(load_model('resnet32-0311.tf'))
 
+# resnet110-0309_x3453.tf
