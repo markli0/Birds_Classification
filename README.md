@@ -16,7 +16,7 @@ better performance by various techniques.
 ## Dataset:
 The dataset is given by the organizer of the competition. There are totally 38,562 labeled images as training set and 10,000 
 unlabeled images as testing set. Furthermore, there are 555 kinds of birds are included in the dataset, and each class has 
-different number of samples. One of the challenge is that all images has various sizes, therefore some preprocessing is
+different number of samples. One of the challenge is that all images have various sizes, therefore image preprocessing is
 required.
 ## Techniques:
 ### Network and Hyperparameters
